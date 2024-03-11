@@ -13,6 +13,7 @@ function HomePage() {
 		 <div style={{ padding: "10px 20px", fontSize: "50px", margin: "5%", textAlign: "center", color: "white"}}>
 			<a href="/feature/ssr">SSR Demo</a><br></br><br></br>
 			<a href="/feature/isr">ISR Demo with revalidate time of 10s.</a>
+			<p> Updated at 03111226</p>
 		 </div>
       </>	    
    )
